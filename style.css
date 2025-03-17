@@ -1,0 +1,15 @@
+.sobre-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.sobre-imagem {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.sobre-texto {
+    flex: 1;
+}
